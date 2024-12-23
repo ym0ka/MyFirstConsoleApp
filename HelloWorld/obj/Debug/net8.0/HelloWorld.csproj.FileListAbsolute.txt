@@ -1,0 +1,14 @@
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
