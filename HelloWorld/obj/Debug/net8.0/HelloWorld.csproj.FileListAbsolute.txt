@@ -12,3 +12,4 @@ D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.
 D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+D:\Mes projets\06-Dev\01-MyFirstConsoleApp\HelloWorld\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json

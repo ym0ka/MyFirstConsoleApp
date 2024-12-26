@@ -1,4 +1,5 @@
-﻿namespace HelloWorld
+﻿//Most of the comments are in english, I however write test dialogues in French my personal understanding.
+namespace HelloWorld
 {
     class Program
     {
@@ -21,17 +22,41 @@
             {
                 checked
                 {
-                    byte maxBite = byte.MaxValue;
-                    maxBite++;
-                    Console.WriteLine(maxBite);
+                    byte maxByte = byte.MaxValue;
+                    maxByte++;
+                    Console.WriteLine(maxByte);
                 }
             }
             catch (Exception e)
             {
                 Console.WriteLine("Exception volontaire : " + e.Message);
-                // Removed throw; to avoit e
+                // Removed throw; to avoid catch stopping the script
             }
             
+            //Simple console prompt asking users' name
+            Console.WriteLine("\nQuel est votre nom ?");
+            string userName = Console.ReadLine();
+            
+            //More complex console prompt using switch cases
+            Console.WriteLine("\nBonjour, {0} !", userName);
+            Console.WriteLine("\nQuel est votre genre ?");
+            Console.WriteLine("\n1. HOMME");
+            Console.WriteLine("\n2. FEMME");
+            Console.WriteLine("\n3. HELICO DE COMBAT");
+            string userGender = Console.ReadLine();
+            switch (userGender)
+            {
+                case "1":
+                    Console.WriteLine("Bonjour MONSIEUR.");
+                    break;
+                case "2":
+                    Console.WriteLine("Bonjour MADAME.");
+                    break;
+                case "3":
+                    Console.WriteLine("Bonjour HELICO.");
+                    break;
+            }
+
         }
 
     }
