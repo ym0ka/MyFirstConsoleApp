@@ -1,4 +1,6 @@
 ﻿//Most of the comments are in english, I however write test dialogues in French my personal understanding.
+using System;
+
 namespace HelloWorld
 {
     class Program
